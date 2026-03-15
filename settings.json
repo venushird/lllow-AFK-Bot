@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "MofuMofu Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "BOTmofumofu",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "mofumofu.aternos.me",
+    "port": 43134,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "alooww :D",
+        "Welcome, kawanMofuMofu!",
       ]
     },
     "chat-log": true,
